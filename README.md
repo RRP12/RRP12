@@ -15,7 +15,7 @@
 I'm a passionate **Software Engineer** with hands-on experience in building scalable web & mobile applications.  
 I specialize in **React, Next.js, Node.js, TypeScript, Supabase, and GraphQL**, with a strong foundation in **problem solving & clean code practices**.  
 
-- 💻 2+ years of professional experience in full-stack development  
+- 💻 3+ years of professional experience in full-stack development and AI applications
 - 🏆 Solved 250+ coding problems across multiple platforms  
 - 🌱 Currently exploring **AI + RAG apps** with LangChain & Mistral  
 - 🚴‍♂️ Love building impactful, real-world projects with modern technologies  
