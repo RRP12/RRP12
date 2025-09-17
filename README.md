@@ -48,6 +48,10 @@ Built with Expo & TypeScript, featuring a **popularity algorithm** for movies us
 *Next.js | Supabase | Tailwind | Mistral AI | LangChain*  
 A **RAG-powered app** using Next.js full-stack with Supabase. Integrated AI for intelligent document retrieval and real-time interactions.  
 
+### 🔹 [ACE MCP]
+*Next.js | Supabase | Tailwind | Mistral AI | LangChain*  
+A **RAG-powered app** Ai agent for developing mcp servers using vercel ai sdk 
+
 
 ## 💼 Experience  
 
@@ -62,6 +66,9 @@ A **RAG-powered app** using Next.js full-stack with Supabase. Integrated AI for 
 - Improved UI with React, reducing debugging time by **62%**  
 - Integrated **Strapi CMS** and GraphQL APIs with Apollo Client  
 - Delivered SEO-friendly web apps using **Next.js SSR & SSG**  
+
+**Associate @Amazon 
+- Delivered hight level cases for react js and also explored new possibility with OSS projects with typescript 
 
 
 
