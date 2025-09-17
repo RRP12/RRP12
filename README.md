@@ -1,9 +1,4 @@
-## Hi there 👋
 
-
-**RRP12/RRP12** is a ✨ 😉 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi, I'm Rushikesh Patil 👋  
 ### Software Engineer | Full Stack Developer | Problem Solver  
 
