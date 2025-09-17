@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **RRP12/RRP12** is a ✨ 😉 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -68,13 +68,13 @@ A **RAG-powered app** using Next.js full-stack with Supabase. Integrated AI for 
 - Integrated **Strapi CMS** and GraphQL APIs with Apollo Client  
 - Delivered SEO-friendly web apps using **Next.js SSR & SSG**  
 
----
+
 
 ## 🏆 Achievements  
 - 🎯 YC Participation (2024 – December Batch)  
 - 💡 Solved 250+ coding challenges across LeetCode & other platforms  
 
----
+
 
 
 
